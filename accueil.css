@@ -44,9 +44,7 @@ header p{
 }
 #presentation{
     display: flex;
-    border-radius: 15px 15px 0 0;
     background-color: #383736;
-    position: relative;
     bottom: 18px;
 }
 .portrait {
