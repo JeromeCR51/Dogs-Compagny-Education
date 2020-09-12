@@ -23,3 +23,42 @@ body{
 	margin: auto;
 	font-family: 'robotoregular', Arial, Helvetica, sans-serif;
 }
+/* HEADER */
+
+header{
+	height: 100px;
+	text-align: center;
+	background-color: #EAB51E;
+}
+header p{
+    margin: 0;
+    padding-left: 165px;
+    font-weight: bold;
+}
+.titre{
+    margin-bottom: 0;
+	color: #996D05;
+}
+.titrebis{
+	color: #0BB52E;
+}
+#presentation{
+    display: flex;
+    border-radius: 15px 15px 0 0;
+    background-color: #383736;
+    position: relative;
+    bottom: 18px;
+}
+.portrait {
+    vertical-align: middle;
+    border-radius: 50%;
+    height: 125px;
+    width: 125px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.contact{
+    color: #FFFFFF;
+}
