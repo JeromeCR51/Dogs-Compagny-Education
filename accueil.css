@@ -78,6 +78,10 @@ header p{
     background-color: #F7EF00;
     padding-left: 20px;
 }
+#packages h2{
+    text-decoration: underline;
+    padding: 20px 0 0 0;
+}
 #packages img{
     border-radius: 20px 20px 0 0;
 }
@@ -92,5 +96,8 @@ header p{
     text-align: center;
     border-radius: 0 0 20px 20px;
     line-height: 60px;
+}
+.photo{
+    padding: 10px 0 10px 0;
 }
 
