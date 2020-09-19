@@ -106,14 +106,18 @@ header p{
     position: relative;
     float: right;
     padding: 10px 25px;
+    transform: scale(1);
+    transition: transform 400ms;
+}
+.patte:hover{
+    transform: scale(1.50);
 }
 .ici
 {
     position: relative;
     float: right;
     font-size: 0.8em;
-    top: 4px;
-    left: 51px;
+    left: 56px;
     font-weight: bold;
 }
 .ici a{
